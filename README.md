@@ -2,6 +2,6 @@
 - 🔭 I’m currently working on Rencar. 
 - 🌱 I’m currently learning Docker. 
 
-<div>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=solone313)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
